@@ -1,9 +1,7 @@
- /*CSS RESET*/
-
- body {
+ body{
     margin: 0px;
     padding: 0px;
-    background: url('/IMAGES/pexels-victor-freitas-841130.jpg');
+    background-image: url('../IMAGES/bg.jpg');
     color: #ebebff;
     height: 100%;
 }

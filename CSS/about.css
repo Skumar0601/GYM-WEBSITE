@@ -1,7 +1,7 @@
 body {
     margin: 0px;
     padding: 0px;
-    background: url('/IMAGES/pexels-victor-freitas-841130.jpg');
+    background: url('../IMAGES/bg.jpg');
     color: #ebebff;
     height: 100%;
 }
